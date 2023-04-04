@@ -1,0 +1,1271 @@
+[
+  {
+    "commodity": "Carrot",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "market": "Khed(Chakan)",
+    "max_rate": "Rs. 1,500/Quintal",
+    "min_rate": "Rs. 1,000/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Carrot",
+    "state": "Maharashtra",
+    "district": "Ahmednagar",
+    "market": "Shrirampur",
+    "max_rate": "Rs. 2,000/Quintal",
+    "min_rate": "Rs. 1,000/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "district": "Ahmednagar",
+    "market": "Rahata",
+    "commodity": "Carrot",
+    "state": "Maharashtra",
+    "max_rate": "Rs. 1,500/Quintal",
+    "min_rate": "Rs. 1,500/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "district": "Satara",
+    "market": "Satara",
+    "commodity": "Carrot",
+    "state": "Maharashtra",
+    "max_rate": "Rs. 1,800/Quintal",
+    "min_rate": "Rs. 1,500/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "district": "Mumbai",
+    "market": "Mumbai",
+    "commodity": "Carrot",
+    "state": "Maharashtra",
+    "max_rate": "Rs. 2,600/Quintal",
+    "min_rate": "Rs. 1,800/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "district": "Pune",
+    "market": "Pune(Moshi)",
+    "commodity": "Carrot",
+    "state": "Maharashtra",
+    "max_rate": "Rs. 2,000/Quintal",
+    "min_rate": "Rs. 1,000/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "district": "Pune",
+    "market": "Pune",
+    "commodity": "Carrot",
+    "state": "Maharashtra",
+    "max_rate": "Rs. 1,500/Quintal",
+    "min_rate": "Rs. 800/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "district": "Jalgaon",
+    "market": "Bhusaval",
+    "commodity": "Carrot",
+    "state": "Maharashtra",
+    "max_rate": "Rs. 2,000/Quintal",
+    "min_rate": "Rs. 2,000/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "district": "Nagpur",
+    "market": "Ramtek",
+    "commodity": "Carrot",
+    "state": "Maharashtra",
+    "max_rate": "Rs. 2,000/Quintal",
+    "min_rate": "Rs. 1,800/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "district": "Sholapur",
+    "market": "Solapur",
+    "commodity": "Carrot",
+    "state": "Maharashtra",
+    "max_rate": "Rs. 1,600/Quintal",
+    "min_rate": "Rs. 600/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "district": "Jalgaon",
+    "market": "Jalgaon",
+    "commodity": "Carrot",
+    "state": "Maharashtra",
+    "max_rate": "Rs. 1,500/Quintal",
+    "min_rate": "Rs. 1,500/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "district": "Amarawati",
+    "market": "Amrawati(Frui & Veg. market)",
+    "commodity": "Carrot",
+    "state": "Maharashtra",
+    "max_rate": "Rs. 1,600/Quintal",
+    "min_rate": "Rs. 1,000/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "district": "Satara",
+    "market": "Karad",
+    "commodity": "Carrot",
+    "state": "Maharashtra",
+    "max_rate": "Rs. 1,500/Quintal",
+    "min_rate": "Rs. 1,000/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "district": "Osmanabad",
+    "market": "Osmanabad",
+    "commodity": "Carrot",
+    "state": "Maharashtra",
+    "max_rate": "Rs. 2,500/Quintal",
+    "min_rate": "Rs. 1,500/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "district": "Aurangabad",
+    "market": "Aurangabad",
+    "commodity": "Carrot",
+    "state": "Maharashtra",
+    "max_rate": "Rs. 800/Quintal",
+    "min_rate": "Rs. 700/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "district": "Pune",
+    "market": "Pune(Khadiki)",
+    "commodity": "Carrot",
+    "state": "Maharashtra",
+    "max_rate": "Rs. 1,400/Quintal",
+    "min_rate": "Rs. 1,200/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "district": "Nashik",
+    "market": "Nasik",
+    "commodity": "Carrot",
+    "state": "Maharashtra",
+    "max_rate": "Rs. 1,200/Quintal",
+    "min_rate": "Rs. 800/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "district": "Nagpur",
+    "market": "Kamthi",
+    "commodity": "Carrot",
+    "state": "Maharashtra",
+    "max_rate": "Rs. 1,600/Quintal",
+    "min_rate": "Rs. 1,000/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "district": "Sholapur",
+    "market": "Pandharpur",
+    "commodity": "Carrot",
+    "state": "Maharashtra",
+    "max_rate": "Rs. 1,700/Quintal",
+    "min_rate": "Rs. 1,000/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "district": "Raigad",
+    "market": "Pen",
+    "commodity": "Carrot",
+    "state": "Maharashtra",
+    "max_rate": "Rs. 4,400/Quintal",
+    "min_rate": "Rs. 4,200/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "district": "Nagpur",
+    "market": "Nagpur",
+    "commodity": "Carrot",
+    "state": "Maharashtra",
+    "max_rate": "Rs. 1,400/Quintal",
+    "min_rate": "Rs. 1,200/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "district": "Sholapur",
+    "market": "Akluj",
+    "commodity": "Carrot",
+    "state": "Maharashtra",
+    "max_rate": "Rs. 2,000/Quintal",
+    "min_rate": "Rs. 1,500/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "district": "Thane",
+    "market": "Kalyan",
+    "commodity": "Carrot",
+    "state": "Maharashtra",
+    "max_rate": "Rs. 1,200/Quintal",
+    "min_rate": "Rs. 1,000/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "district": "Sangli",
+    "market": "Palus",
+    "commodity": "Carrot",
+    "state": "Maharashtra",
+    "max_rate": "Rs. 2,000/Quintal",
+    "min_rate": "Rs. 1,500/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "district": "Raigad",
+    "market": "Panvel",
+    "commodity": "Carrot",
+    "state": "Maharashtra",
+    "max_rate": "Rs. 2,000/Quintal",
+    "min_rate": "Rs. 1,800/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "district": "Ratnagiri",
+    "market": "Ratnagiri (Nachane)",
+    "commodity": "Carrot",
+    "state": "Maharashtra",
+    "max_rate": "Rs. 3,000/Quintal",
+    "min_rate": "Rs. 2,000/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Carrot",
+    "state": "Maharashtra",
+    "district": "Chandrapur",
+    "market": "Chandrapur(Ganjwad)",
+    "max_rate": "Rs. 1,000/Quintal",
+    "min_rate": "Rs. 500/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "district": "Kolhapur",
+    "market": "Vadgaonpeth",
+    "commodity": "Carrot",
+    "state": "Maharashtra",
+    "max_rate": "Rs. 2,000/Quintal",
+    "min_rate": "Rs. 1,400/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "district": "Ahmednagar",
+    "market": "Ahmednagar",
+    "commodity": "Carrot",
+    "state": "Maharashtra",
+    "max_rate": "Rs. 1,800/Quintal",
+    "min_rate": "Rs. 1,000/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "district": "Pune",
+    "market": "Maanachar",
+    "commodity": "Carrot",
+    "state": "Maharashtra",
+    "max_rate": "Rs. 3,360",
+    "min_rate": "Rs. 1,000/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Thane",
+    "market": "Kalyan",
+    "max_rate": "Rs. 1,300/Quintal",
+    "min_rate": "Rs. 1,100/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "market": "Pune",
+    "max_rate": "Rs. 1,100/Quintal",
+    "min_rate": "Rs. 400/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Sangli",
+    "market": "Sangli(Phale, Bhajipura market)",
+    "max_rate": "Rs. 1,200/Quintal",
+    "min_rate": "Rs. 300/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "market": "Pune(Pimpri)",
+    "max_rate": "Rs. 800/Quintal",
+    "min_rate": "Rs. 700/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "market": "Pune(Moshi)",
+    "max_rate": "Rs. 900/Quintal",
+    "min_rate": "Rs. 300/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Nagpur",
+    "market": "Kamthi",
+    "max_rate": "Rs. 1,600/Quintal",
+    "min_rate": "Rs. 1,200/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "market": "Pune(Khadiki)",
+    "max_rate": "Rs. 1,200/Quintal",
+    "min_rate": "Rs. 700/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Amarawati",
+    "market": "Amrawati(Frui & Veg. market)",
+    "max_rate": "Rs. 1,200/Quintal",
+    "min_rate": "Rs. 800/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "market": "Junnar(Alephata)",
+    "max_rate": "Rs. 1,420",
+    "min_rate": "Rs. 500/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "market": "Yeola",
+    "max_rate": "Rs. 976",
+    "min_rate": "Rs. 300/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "market": "Satana",
+    "max_rate": "Rs. 1,075",
+    "min_rate": "Rs. 275",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "market": "Pimpalgaon",
+    "max_rate": "Rs. 1,326",
+    "min_rate": "Rs. 800/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "market": "Lasalgaon",
+    "max_rate": "Rs. 1,080",
+    "min_rate": "Rs. 700/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Kolhapur",
+    "market": "Kolhapur",
+    "max_rate": "Rs. 1,300/Quintal",
+    "min_rate": "Rs. 400/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "market": "Lasalgaon(Niphad)",
+    "max_rate": "Rs. 952",
+    "min_rate": "Rs. 555",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Ahmednagar",
+    "market": "Kopargaon",
+    "max_rate": "Rs. 1,013",
+    "min_rate": "Rs. 500/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "market": "Umrane",
+    "max_rate": "Rs. 950",
+    "min_rate": "Rs. 401",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "market": "Khed(Chakan)",
+    "max_rate": "Rs. 1,200/Quintal",
+    "min_rate": "Rs. 1,000/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Ahmednagar",
+    "market": "Rahata",
+    "max_rate": "Rs. 1,150",
+    "min_rate": "Rs. 200/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "market": "Lasalgaon(Vinchur)",
+    "max_rate": "Rs. 1,127",
+    "min_rate": "Rs. 600/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "market": "Nasik",
+    "max_rate": "Rs. 1,151",
+    "min_rate": "Rs. 500/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "market": "Chandvad",
+    "max_rate": "Rs. 1,078",
+    "min_rate": "Rs. 421",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Sholapur",
+    "market": "Mangal Wedha",
+    "max_rate": "Rs. 1,300/Quintal",
+    "min_rate": "Rs. 200/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Mumbai",
+    "market": "Vashi New Mumbai",
+    "max_rate": "Rs. 1,300/Quintal",
+    "min_rate": "Rs. 700/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "market": "Devala",
+    "max_rate": "Rs. 900/Quintal",
+    "min_rate": "Rs. 600/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "market": "Pimpalgaon",
+    "max_rate": "Rs. 1,012",
+    "min_rate": "Rs. 200/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "market": "Nasik",
+    "max_rate": "Rs. 1,051",
+    "min_rate": "Rs. 400/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "market": "Umrane",
+    "max_rate": "Rs. 851",
+    "min_rate": "Rs. 301",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "market": "Lasalgaon(Niphad)",
+    "max_rate": "Rs. 772",
+    "min_rate": "Rs. 400/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "market": "Chandvad",
+    "max_rate": "Rs. 929",
+    "min_rate": "Rs. 200/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Jalgaon",
+    "market": "Yawal",
+    "max_rate": "Rs. 730",
+    "min_rate": "Rs. 440",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Jalgaon",
+    "market": "Chalisgaon",
+    "max_rate": "Rs. 808",
+    "min_rate": "Rs. 100/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Ahmednagar",
+    "market": "Kopargaon",
+    "max_rate": "Rs. 800/Quintal",
+    "min_rate": "Rs. 300/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "market": "Pimpalgaon Baswant(Saykheda)",
+    "max_rate": "Rs. 850",
+    "min_rate": "Rs. 350",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "market": "Devala",
+    "max_rate": "Rs. 800/Quintal",
+    "min_rate": "Rs. 100/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Jalgaon",
+    "market": "Bhusaval",
+    "max_rate": "Rs. 1,000/Quintal",
+    "min_rate": "Rs. 1,000/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Dhule",
+    "market": "Sakri",
+    "max_rate": "Rs. 930",
+    "min_rate": "Rs. 250",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Jalgaon",
+    "market": "Jalgaon",
+    "max_rate": "Rs. 750",
+    "min_rate": "Rs. 350",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "market": "Lasalgaon",
+    "max_rate": "Rs. 1,141",
+    "min_rate": "Rs. 300/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Ahmednagar",
+    "market": "Sangamner",
+    "max_rate": "Rs. 1,211",
+    "min_rate": "Rs. 200/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Ahmednagar",
+    "market": "Parner",
+    "max_rate": "Rs. 1,200/Quintal",
+    "min_rate": "Rs. 200/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "market": "Yeola",
+    "max_rate": "Rs. 880",
+    "min_rate": "Rs. 200/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Sholapur",
+    "market": "Solapur",
+    "max_rate": "Rs. 1,400/Quintal",
+    "min_rate": "Rs. 100/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "market": "Manmad",
+    "max_rate": "Rs. 751",
+    "min_rate": "Rs. 200/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "market": "Lasalgaon(Vinchur)",
+    "max_rate": "Rs. 1,031",
+    "min_rate": "Rs. 300/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Sholapur",
+    "market": "Akluj",
+    "max_rate": "Rs. 1,420",
+    "min_rate": "Rs. 300/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Buldhana",
+    "market": "Malkapur",
+    "max_rate": "Rs. 760",
+    "min_rate": "Rs. 400/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Satara",
+    "market": "Vai",
+    "max_rate": "Rs. 1,300/Quintal",
+    "min_rate": "Rs. 500/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Satara",
+    "market": "Satara",
+    "max_rate": "Rs. 1,300/Quintal",
+    "min_rate": "Rs. 800/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Sangli",
+    "market": "Vita",
+    "max_rate": "Rs. 1,000/Quintal",
+    "min_rate": "Rs. 500/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "market": "Junnar(Otur)",
+    "max_rate": "Rs. 1,300/Quintal",
+    "min_rate": "Rs. 500/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "market": "Kalvan",
+    "max_rate": "Rs. 1,225",
+    "min_rate": "Rs. 300/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Ahmednagar",
+    "market": "Akole",
+    "max_rate": "Rs. 1,251",
+    "min_rate": "Rs. 150",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Aurangabad",
+    "market": "Aurangabad",
+    "max_rate": "Rs. 1,000/Quintal",
+    "min_rate": "Rs. 200/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Nagpur",
+    "market": "Ramtek",
+    "max_rate": "Rs. 1,400/Quintal",
+    "min_rate": "Rs. 1,000/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Aurangabad",
+    "market": "Vaijpur",
+    "max_rate": "Rs. 850",
+    "min_rate": "Rs. 300/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Ahmednagar",
+    "market": "Shrirampur",
+    "max_rate": "Rs. 999",
+    "min_rate": "Rs. 200/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Nagpur",
+    "market": "Nagpur",
+    "max_rate": "Rs. 1,100/Quintal",
+    "min_rate": "Rs. 700/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "market": "Satana",
+    "max_rate": "Rs. 920",
+    "min_rate": "Rs. 150",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "market": "Kalvan",
+    "max_rate": "Rs. 990",
+    "min_rate": "Rs. 200/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Ahmednagar",
+    "market": "Rahuri(Vambori)",
+    "max_rate": "Rs. 1,100/Quintal",
+    "min_rate": "Rs. 100/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Sholapur",
+    "market": "Pandharpur",
+    "max_rate": "Rs. 1,200/Quintal",
+    "min_rate": "Rs. 200/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Chandrapur",
+    "market": "Chandrapur(Ganjwad)",
+    "max_rate": "Rs. 1,300/Quintal",
+    "min_rate": "Rs. 1,000/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Nagpur",
+    "market": "Nagpur",
+    "max_rate": "Rs. 1,200/Quintal",
+    "min_rate": "Rs. 1,000/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "market": "Pimpalgaon Baswant(Saykheda)",
+    "max_rate": "Rs. 1,051",
+    "min_rate": "Rs. 500/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Osmanabad",
+    "market": "Osmanabad",
+    "max_rate": "Rs. 600/Quintal",
+    "min_rate": "Rs. 225",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Satara",
+    "market": "Karad",
+    "max_rate": "Rs. 1,400/Quintal",
+    "min_rate": "Rs. 300/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Dhule",
+    "market": "Dhule",
+    "max_rate": "Rs. 900/Quintal",
+    "min_rate": "Rs. 100/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Ahmednagar",
+    "market": "Shevgaon",
+    "max_rate": "Rs. 1,100/Quintal",
+    "min_rate": "Rs. 800/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Ahmednagar",
+    "market": "Shevgaon",
+    "max_rate": "Rs. 700/Quintal",
+    "min_rate": "Rs. 500/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Ahmednagar",
+    "market": "Shevgaon",
+    "max_rate": "Rs. 400/Quintal",
+    "min_rate": "Rs. 200/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Ahmednagar",
+    "market": "Ahmednagar",
+    "max_rate": "Rs. 1,200/Quintal",
+    "min_rate": "Rs. 100/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Nagpur",
+    "market": "Hingna",
+    "max_rate": "Rs. 1,500/Quintal",
+    "min_rate": "Rs. 1,000/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "market": "Junnar",
+    "max_rate": "Rs. 1,200/Quintal",
+    "min_rate": "Rs. 700/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Ahmednagar",
+    "market": "Rahuri",
+    "max_rate": "Rs. 1,100/Quintal",
+    "min_rate": "Rs. 100/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Raigad",
+    "market": "Pen",
+    "max_rate": "Rs. 1,800/Quintal",
+    "min_rate": "Rs. 1,600/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "market": "Maanachar",
+    "max_rate": "Rs. 1,300/Quintal",
+    "min_rate": "Rs. 800/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Ahmednagar",
+    "market": "Shrirampur",
+    "max_rate": "Rs. 1,051",
+    "min_rate": "Rs. 100/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "market": "Junnar(Narayangaon)",
+    "max_rate": "Rs. 1,350",
+    "min_rate": "Rs. 400/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Jalgaon",
+    "market": "Chalisgaon",
+    "max_rate": "Rs. 1,150",
+    "min_rate": "Rs. 200/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Ahmednagar",
+    "market": "Shrigonda",
+    "max_rate": "Rs. 1,000/Quintal",
+    "min_rate": "Rs. 400/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Satara",
+    "market": "Lonand",
+    "max_rate": "Rs. 1,311",
+    "min_rate": "Rs. 400/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "market": "Sinner",
+    "max_rate": "Rs. 822",
+    "min_rate": "Rs. 100/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Ahmednagar",
+    "market": "Ahmednagar",
+    "max_rate": "Rs. 1,100/Quintal",
+    "min_rate": "Rs. 500/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Ahmednagar",
+    "market": "Pathardi",
+    "max_rate": "Rs. 800/Quintal",
+    "min_rate": "Rs. 300/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "market": "Indapur",
+    "max_rate": "Rs. 900/Quintal",
+    "min_rate": "Rs. 100/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "market": "Nampur",
+    "max_rate": "Rs. 880",
+    "min_rate": "Rs. 100/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Aurangabad",
+    "market": "Paithan",
+    "max_rate": "Rs. 750",
+    "min_rate": "Rs. 350",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Thane",
+    "market": "Kalyan",
+    "max_rate": "Rs. 600/Quintal",
+    "min_rate": "Rs. 400/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Ahmednagar",
+    "market": "Rahata",
+    "max_rate": "Rs. 1,150",
+    "min_rate": "Rs. 200/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Chandrapur",
+    "market": "Chandrapur(Ganjwad)",
+    "max_rate": "Rs. 1,700/Quintal",
+    "min_rate": "Rs. 1,200/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "market": "Sinner",
+    "max_rate": "Rs. 950",
+    "min_rate": "Rs. 100/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Ahmednagar",
+    "market": "Rahuri",
+    "max_rate": "Rs. 1,200/Quintal",
+    "min_rate": "Rs. 100/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Kolhapur",
+    "market": "Vadgaonpeth",
+    "max_rate": "Rs. 1,500/Quintal",
+    "min_rate": "Rs. 1,000/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Thane",
+    "market": "Murbad",
+    "max_rate": "Rs. 2,000/Quintal",
+    "min_rate": "Rs. 1,000/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Satara",
+    "market": "Lonand",
+    "max_rate": "Rs. 1,401",
+    "min_rate": "Rs. 350",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Satara",
+    "market": "Palthan",
+    "max_rate": "Rs. 2,000/Quintal",
+    "min_rate": "Rs. 300/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Ahmednagar",
+    "market": "Parner",
+    "max_rate": "Rs. 2,000/Quintal",
+    "min_rate": "Rs. 300/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "market": "Manmad",
+    "max_rate": "Rs. 1,641",
+    "min_rate": "Rs. 500/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Ahmednagar",
+    "market": "Sangamner",
+    "max_rate": "Rs. 1,500/Quintal",
+    "min_rate": "Rs. 1,200/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Ahmednagar",
+    "market": "Jamkhed",
+    "max_rate": "Rs. 2,100/Quintal",
+    "min_rate": "Rs. 100/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Aurangabad",
+    "market": "Vaijpur",
+    "max_rate": "Rs. 1,100/Quintal",
+    "min_rate": "Rs. 200/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Ahmednagar",
+    "market": "Rahuri(Vambori)",
+    "max_rate": "Rs. 1,500/Quintal",
+    "min_rate": "Rs. 100/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Nashik",
+    "market": "Nampur",
+    "max_rate": "Rs. 1,480",
+    "min_rate": "Rs. 100/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Aurangabad",
+    "market": "Gangapur",
+    "max_rate": "Rs. 1,800/Quintal",
+    "min_rate": "Rs. 28",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Ahmednagar",
+    "market": "Sangamner",
+    "max_rate": "Rs. 1,500/Quintal",
+    "min_rate": "Rs. 1,000/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Ahmednagar",
+    "market": "Sangamner",
+    "max_rate": "Rs. 1,000/Quintal",
+    "min_rate": "Rs. 500/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Thane",
+    "market": "Kalyan",
+    "max_rate": "Rs. 700/Quintal",
+    "min_rate": "Rs. 600/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Aurangabad",
+    "market": "Paithan",
+    "max_rate": "Rs. 3,200/Quintal",
+    "min_rate": "Rs. 700/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Pune",
+    "market": "Indapur",
+    "max_rate": "Rs. 3,200/Quintal",
+    "min_rate": "Rs. 100/Quintal",
+    "date": "24-03-2023"
+  },
+  {
+    "commodity": "Onion",
+    "state": "Maharashtra",
+    "district": "Sholapur",
+    "market": "Solapur",
+    "max_rate": "Rs. 5,000/Quintal",
+    "min_rate": "Rs. 100/Quintal",
+    "date": "24-03-2023"
+  }
+]
